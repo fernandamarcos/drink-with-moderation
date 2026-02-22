@@ -14,6 +14,7 @@ This project transforms your **drink consumption logs** into meaningful data and
 ---
 
 ## 📁 Project Structure
+```
 ├── bebidas_raw.csv # Original CSV with raw records
 ├── data/
 │ └── alcohol_clean.csv # Cleaned CSV with additional columns
@@ -21,7 +22,7 @@ This project transforms your **drink consumption logs** into meaningful data and
 ├── limpiar_bebidas.py # Script to clean and normalize the data
 ├── analisis_alcohol.py # Script to generate analysis and plots
 └── README.md # This file
-
+```
 
 ---
 
