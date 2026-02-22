@@ -1,8 +1,8 @@
-Gasto total: 644.5
-Precio medio bebida: 1.44
+Total spending: 644.5
+Average price per drink: 1.44
 
-Precio medio por tipo:
-BEBIDA
+Average price by drink type:
+DRINK
 Aperol                2.285714
 Bloody Mary          12.000000
 Cafe Con Baileys      4.000000

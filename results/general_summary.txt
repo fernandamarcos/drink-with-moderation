@@ -1,7 +1,7 @@
-Total bebidas: 448
+Total drinks: 448
 
-Bebidas por tipo:
-BEBIDA
+Drinks by type:
+DRINK
 Cerveza              346
 Roncola               40
 Vermu                 22

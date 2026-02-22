@@ -1,4 +1,4 @@
-FECHA;BEBIDA;MARCA;PRECIO;LUGAR
+DATE;DRINK;BRAND;PRICE;PLACE
 01/01/2025;Cerveza;Voll Damm;0 ?;Casa Madrid
 01/01/2025;Cerveza;Mahou;4 ?;La Coquette
 01/01/2025;Bloody Mary;;12 ?;La Coquette
@@ -10,17 +10,17 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 13/01/2025;Cerveza;Steinburg;0 ?;Casa Beltran 
 13/01/2025;Cerveza;Steinburg;0 ?;Casa Beltran 
 13/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Beltran 
-14/01/2025;Cerveza;Alhambra Verde;3,50 ?;La Caracola
+14/01/2025;Cerveza;Alhambra;3,50 ?;La Caracola
 17/01/2025;Cerveza;Mahou;0 ?;Casa Madrid
-18/01/2025;Cerveza;Alhambra Especial;0,60 ?;Casa Laura
+18/01/2025;Cerveza;Alhambra;0,60 ?;Casa Laura
 18/01/2025;Cerveza;Estrella Galicia;0,60 ?;Casa Laura
 18/01/2025;Cerveza;Estrella Galicia;0,60 ?;Casa Laura
 18/01/2025;Cerveza;Mahou;0,60 ?;Casa Laura
 18/01/2025;Mojito;;1 ?;Casa Laura
 18/01/2025;Mojito;;1 ?;Casa Laura
 18/01/2025;Mojito;;1 ?;Casa Laura
-19/01/2025;Cerveza;Alhambra Verde;0,60 ?;Casa Laura
-22/01/2025;Cerveza;Alhambra Verde;0,00 ?;Madrid
+19/01/2025;Cerveza;Alhambra;0,60 ?;Casa Laura
+22/01/2025;Cerveza;Alhambra;0,00 ?;Madrid
 23/01/2025;Vermu;;3 ?;Madrid
 23/01/2025;Cerveza;Mahou;3,20 ?;Madrid
 23/01/2025;Cerveza;Mahou;3,20 ?;Madrid
@@ -32,7 +32,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
 29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
 29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
-29/01/2025;Cerveza;Aguila Dorada;4 ?;Ponzano
+29/01/2025;Cerveza;Aguila;4 ?;Ponzano
 29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Malaga
 01/02/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
 02/02/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
@@ -55,7 +55,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 27/02/2025;Vermu;;2,80 ?;El Greco
 27/02/2025;Cerveza;;2,00 ?;El Greco
 01/03/2025;Cerveza;Mahou;3,50 ?;Oguis
-06/03/2025;Cerveza;Aguila Dorada;3 ?;TGB
+06/03/2025;Cerveza;Aguila;3 ?;TGB
 07-mar;vermu;;2,80 ?;el greco 
 07-mar;vermu;;2,80 ?;el greco 
 07-mar;Cerveza;mahou;2,00 ?;el greco 
@@ -66,7 +66,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 08-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
 09-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
 10-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
-13/03/2026;Cerveza;Aguila Dorada;3 ?;TGB
+13-mar;Cerveza;Aguila;3 ?;TGB
 14-mar;Cerveza;Mahou;3,20 ?;Aura
 15-mar;Cerveza;Mahou;0,00 ?;ICAI
 15-mar;Cerveza;Mahou;0,00 ?;ICAI
@@ -188,7 +188,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 10-jun;Cerveza;Victoria;0,00 ?;Malaga
 11-jun;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
 13-jun;Cerveza;Mahou;2,00 ?;Cole
-13-jun;Cerveza;Aguila Dorada;3,50 ?;Seven
+13-jun;Cerveza;Aguila;3,50 ?;Seven
 13-jun;Cerveza;Estrella Galicia;3,50 ?;Tranvia
 14-jun;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
 19-jun;Cerveza;Mahou;0,00 ?;Tren
@@ -271,8 +271,8 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 10-ago;Gintonic;;0,00 ?;Casa Malaga
 11-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
 12-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
-13-ago;Cerveza;Aguila Dorada;2,00 ?;Vialia
-13-ago;Cerveza;Aguila Dorada;2,00 ?;Vialia
+13-ago;Cerveza;Aguila;2,00 ?;Vialia
+13-ago;Cerveza;Aguila;2,00 ?;Vialia
 13-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Salas
 13-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Salas
 13-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Salas
@@ -357,15 +357,15 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 12-oct;Cerveza;Victoria;0,00 ?;Barra Bientirada
 12-oct;Cerveza;Victoria;0,00 ?;Barra Bientirada
 13-oct;Cerveza;Budweiser;0,00 ?;Alfredos
-17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
-17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
-17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
-17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
-17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
-17-oct;Mojito;;0,50 ?;Casa Laurazarzal
-17-oct;Mojito;;0,50 ?;Casa Laurazarzal
-17-oct;Mojito;;0,50 ?;Casa Laurazarzal
-18-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa laura
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa laura
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa laura
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa laura
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa laura
+17-oct;Mojito;;0,50 ?;Casa laura
+17-oct;Mojito;;0,50 ?;Casa laura
+17-oct;Mojito;;0,50 ?;Casa laura
+18-oct;Cerveza;Estrella Galicia;0,50 ?;Casa laura
 19-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
 19-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
 19-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
@@ -392,8 +392,8 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR
 01-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
 05-nov;Cerveza;Mahou;0,00 ?;Casa madrid
 07-nov;Cerveza;Mahou;3,20 ?;Doctor
-07-nov;Cerveza;Aguila Dorada;3,00 ?;TGB
-07-nov;Cerveza;Aguila Dorada;3,00 ?;Bolera
+07-nov;Cerveza;Aguila;3,00 ?;TGB
+07-nov;Cerveza;Aguila;3,00 ?;Bolera
 07-nov;Cerveza;Mahou;2,00 ?;Mcdonalds
 07-nov;Roncola;;12,00 ?;El cuento
 08-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga

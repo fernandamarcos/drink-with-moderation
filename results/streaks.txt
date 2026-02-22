@@ -1,0 +1,2 @@
+Longest drinking streak: 17 days
+Longest dry streak: 7 days

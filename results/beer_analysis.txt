@@ -1,0 +1,19 @@
+Total beers: 346
+Total liters: 107.85
+
+Beers by brand:
+BRAND
+Mahou               117
+Estrella Galicia     95
+Alhambra             40
+Victoria             31
+Steinburg            10
+Aguila               10
+Tropical              8
+1906                  8
+Cruzcampo             7
+1870                  3
+Tsingtao              3
+Voll Damm             2
+Budweiser             2
+Casablanca            1

@@ -1,4 +1,4 @@
-FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
+DATE;DRINK;BRAND;PRICE;PLACE;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-01-01;Cerveza;Voll Damm;0.0;Casa Madrid;Madrid;0.3;0.015
 2025-01-01;Cerveza;Mahou;4.0;La Coquette;Madrid;0.33;0.0165
 2025-01-01;Bloody Mary;;12.0;La Coquette;Madrid;0.0;0.0
@@ -10,17 +10,17 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-01-13;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
 2025-01-13;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
 2025-01-13;Cerveza;Estrella Galicia;0.0;Casa Beltran;Madrid;0.33;0.0165
-2025-01-14;Cerveza;Alhambra Verde;3.5;La Caracola;Madrid;0.33;0.0165
+2025-01-14;Cerveza;Alhambra;3.5;La Caracola;Madrid;0.33;0.0165
 2025-01-17;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
-2025-01-18;Cerveza;Alhambra Especial;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-18;Cerveza;Alhambra;0.6;Casa Laura;Moralzarzal;0.33;0.0165
 2025-01-18;Cerveza;Estrella Galicia;0.6;Casa Laura;Moralzarzal;0.33;0.0165
 2025-01-18;Cerveza;Estrella Galicia;0.6;Casa Laura;Moralzarzal;0.33;0.0165
 2025-01-18;Cerveza;Mahou;0.6;Casa Laura;Moralzarzal;0.33;0.0165
 2025-01-18;Mojito;;1.0;Casa Laura;Moralzarzal;0.4;0.048
 2025-01-18;Mojito;;1.0;Casa Laura;Moralzarzal;0.4;0.048
 2025-01-18;Mojito;;1.0;Casa Laura;Moralzarzal;0.4;0.048
-2025-01-19;Cerveza;Alhambra Verde;0.6;Casa Laura;Moralzarzal;0.33;0.0165
-2025-01-22;Cerveza;Alhambra Verde;0.0;Madrid;Madrid;0.33;0.0165
+2025-01-19;Cerveza;Alhambra;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-22;Cerveza;Alhambra;0.0;Madrid;Madrid;0.33;0.0165
 2025-01-23;Vermu;;3.0;Madrid;Madrid;0.2;0.03
 2025-01-23;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
 2025-01-23;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
@@ -32,7 +32,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
 2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
 2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
-2025-01-29;Cerveza;Aguila Dorada;4.0;Ponzano;Madrid;0.33;0.0165
+2025-01-29;Cerveza;Aguila;4.0;Ponzano;Madrid;0.33;0.0165
 2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
 2025-02-01;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
 2025-02-02;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
@@ -55,7 +55,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-02-27;Vermu;;2.8;El Greco;Madrid;0.2;0.03
 2025-02-27;Cerveza;;2.0;El Greco;Madrid;0.33;0.0165
 2025-03-01;Cerveza;Mahou;3.5;Oguis;Madrid;0.33;0.0165
-2025-03-06;Cerveza;Aguila Dorada;3.0;Tgb;Madrid;0.33;0.0165
+2025-03-06;Cerveza;Aguila;3.0;Tgb;Madrid;0.33;0.0165
 2025-03-07;Vermu;;2.8;El Greco;Madrid;0.2;0.03
 2025-03-07;Vermu;;2.8;El Greco;Madrid;0.2;0.03
 2025-03-07;Cerveza;Mahou;2.0;El Greco;Madrid;0.33;0.0165
@@ -66,7 +66,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-03-08;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
 2025-03-09;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
 2025-03-10;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
-2025-03-13;Cerveza;Aguila Dorada;3.0;Tgb;Madrid;0.33;0.0165
+2025-03-13;Cerveza;Aguila;3.0;Tgb;Madrid;0.33;0.0165
 2025-03-14;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
 2025-03-15;Cerveza;Mahou;0.0;Icai;Madrid;0.33;0.0165
 2025-03-15;Cerveza;Mahou;0.0;Icai;Madrid;0.33;0.0165
@@ -150,14 +150,14 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-05-16;Roncola;;0.0;Madrid;Madrid;0.4;0.048
 2025-05-19;Aperol;;2.0;Jerez;Jerez;0.4;0.048
 2025-05-19;Aperol;;2.0;Jerez;Jerez;0.4;0.048
-2025-05-19;Rebujito;;7.0;Jerez;Jerez;0.0;0.0
+2025-05-19;Rebujito;;7.0;Jerez;Jerez;0.4;0.048
 2025-05-19;Cerveza;;0.0;Jerez;Jerez;0.33;0.0165
-2025-05-20;Rebujito;;7.0;Jerez;Jerez;0.0;0.0
+2025-05-20;Rebujito;;7.0;Jerez;Jerez;0.4;0.048
 2025-05-20;Roncola;;0.0;Jerez;Jerez;0.4;0.048
-2025-05-21;Rebujito;;0.0;Jerez;Jerez;0.0;0.0
+2025-05-21;Rebujito;;0.0;Jerez;Jerez;0.4;0.048
 2025-05-21;Roncola;;0.0;Jerez;Jerez;0.4;0.048
 2025-05-24;Cerveza;;3.0;Cordoba;Cordoba;0.33;0.0165
-2025-05-24;Rebujito;;7.0;Cordoba;Cordoba;0.0;0.0
+2025-05-24;Rebujito;;7.0;Cordoba;Cordoba;0.4;0.048
 2025-05-24;Roncola;;8.0;Cordoba;Cordoba;0.4;0.048
 2025-05-24;Roncola;;8.0;Cordoba;Cordoba;0.4;0.048
 2025-05-25;Cerveza;;3.0;Cordoba;Cordoba;0.33;0.0165
@@ -188,7 +188,7 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-06-10;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
 2025-06-11;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
 2025-06-13;Cerveza;Mahou;2.0;Cole;Malaga;0.33;0.0165
-2025-06-13;Cerveza;Aguila Dorada;3.5;Seven;Malaga;0.33;0.0165
+2025-06-13;Cerveza;Aguila;3.5;Seven;Malaga;0.33;0.0165
 2025-06-13;Cerveza;Estrella Galicia;3.5;Tranvia;Malaga;0.33;0.0165
 2025-06-14;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
 2025-06-19;Cerveza;Mahou;0.0;Tren;Madrid;0.33;0.0165
@@ -271,8 +271,8 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-08-10;Gintonic;;0.0;Casa Malaga;Malaga;0.4;0.048
 2025-08-11;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
 2025-08-12;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
-2025-08-13;Cerveza;Aguila Dorada;2.0;Vialia;Malaga;0.33;0.0165
-2025-08-13;Cerveza;Aguila Dorada;2.0;Vialia;Malaga;0.33;0.0165
+2025-08-13;Cerveza;Aguila;2.0;Vialia;Malaga;0.33;0.0165
+2025-08-13;Cerveza;Aguila;2.0;Vialia;Malaga;0.33;0.0165
 2025-08-13;Cerveza;Estrella Galicia;0.0;Casa Salas;Malaga;0.33;0.0165
 2025-08-13;Cerveza;Estrella Galicia;0.0;Casa Salas;Malaga;0.33;0.0165
 2025-08-13;Cerveza;Estrella Galicia;0.0;Casa Salas;Malaga;0.33;0.0165
@@ -357,15 +357,15 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-10-12;Cerveza;Victoria;0.0;Barra Bientirada;Madrid;0.33;0.0165
 2025-10-12;Cerveza;Victoria;0.0;Barra Bientirada;Madrid;0.33;0.0165
 2025-10-13;Cerveza;Budweiser;0.0;Alfredos;Madrid;0.33;0.0165
-2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
-2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
-2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
-2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
-2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
-2025-10-17;Mojito;;0.5;Casa Laurazarzal;Moralzarzal;0.4;0.048
-2025-10-17;Mojito;;0.5;Casa Laurazarzal;Moralzarzal;0.4;0.048
-2025-10-17;Mojito;;0.5;Casa Laurazarzal;Moralzarzal;0.4;0.048
-2025-10-18;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laura;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laura;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laura;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laura;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laura;Moralzarzal;0.33;0.0165
+2025-10-17;Mojito;;0.5;Casa Laura;Moralzarzal;0.4;0.048
+2025-10-17;Mojito;;0.5;Casa Laura;Moralzarzal;0.4;0.048
+2025-10-17;Mojito;;0.5;Casa Laura;Moralzarzal;0.4;0.048
+2025-10-18;Cerveza;Estrella Galicia;0.5;Casa Laura;Moralzarzal;0.33;0.0165
 2025-10-19;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
 2025-10-19;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
 2025-10-19;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
@@ -392,8 +392,8 @@ FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
 2025-11-01;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
 2025-11-05;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
 2025-11-07;Cerveza;Mahou;3.2;Doctor;Madrid;0.33;0.0165
-2025-11-07;Cerveza;Aguila Dorada;3.0;Tgb;Madrid;0.33;0.0165
-2025-11-07;Cerveza;Aguila Dorada;3.0;Bolera;Madrid;0.33;0.0165
+2025-11-07;Cerveza;Aguila;3.0;Tgb;Madrid;0.33;0.0165
+2025-11-07;Cerveza;Aguila;3.0;Bolera;Madrid;0.33;0.0165
 2025-11-07;Cerveza;Mahou;2.0;Mcdonalds;Madrid;0.33;0.0165
 2025-11-07;Roncola;;12.0;El Cuento;Madrid;0.4;0.048
 2025-11-08;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01

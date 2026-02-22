@@ -14,18 +14,19 @@ This project transforms your **drink consumption logs** into meaningful data and
 ---
 
 ## 📁 Project Structure
-├── bebidas_raw.csv # Original CSV with raw records
+├── DRINKs_raw.csv # Original CSV with raw records
+
 ├── data/
 │ └── alcohol_clean.csv # Cleaned CSV with additional columns
 ├── results/ # Folder where analysis results are saved
-├── limpiar_bebidas.py # Script to clean and normalize the data
+├── limpiar_DRINKs.py # Script to clean and normalize the data
 ├── analisis_alcohol.py # Script to generate analysis and plots
 └── README.md # This file
 
 
 ---
 
-## 🧹 Data Cleaning (`limpiar_bebidas.py`)
+## 🧹 Data Cleaning (`limpiar_DRINKs.py`)
 
 This script:
 
@@ -75,14 +76,14 @@ Generates a `results/` folder containing:
    - Total spending  
    - Average price per drink  
    - Average price by drink type  
-   File: `analisis_precios.txt`
+   File: `analisis_PRICEs.txt`
 
 5. **Drinking Streaks**  
    - Longest streak drinking / without drinking  
    File: `rachas.txt`
 
 6. **Plots**  
-   - Drinks per day → `bebidas_por_dia.png`  
+   - Drinks per day → `DRINKs_por_dia.png`  
    - Alcohol volume per day → `alcohol_por_dia.png`  
 
 7. **Top 10 Heaviest Drinking Days**  
@@ -92,11 +93,11 @@ Generates a `results/` folder containing:
 
 ## 🚀 How to Use
 
-1. Place your original CSV `bebidas_raw.csv` in the project root.  
+1. Place your original CSV `DRINKs_raw.csv` in the project root.  
 2. Run the cleaning script:
 
 ```bash
-python limpiar_bebidas.py
+python limpiar_DRINKs.py
 ```
 Run the analysis script:
 
