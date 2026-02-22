@@ -22,7 +22,7 @@ This project transforms your **drink consumption logs** into meaningful data and
 ├── limpiar_DRINKs.py # Script to clean and normalize the data
 ├── analisis_alcohol.py # Script to generate analysis and plots
 └── README.md # This file
-
+```
 
 ---
 
