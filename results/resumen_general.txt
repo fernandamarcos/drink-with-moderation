@@ -1,0 +1,20 @@
+Total bebidas: 448
+
+Bebidas por tipo:
+BEBIDA
+Cerveza              346
+Roncola               40
+Vermu                 22
+Gintonic               8
+Aperol                 7
+Vino                   7
+Mojito                 6
+Rebujito               4
+Bloody Mary            1
+Indeterminado          1
+Cafe Con Baileys       1
+Vino Blanco            1
+Cava                   1
+Limoncello Spritz      1
+Tinto                  1
+Cocktail               1

@@ -1,0 +1,449 @@
+FECHA;BEBIDA;MARCA;PRECIO;LUGAR;UBICACION;VOLUMEN_L;ALCOHOL_L
+2025-01-01;Cerveza;Voll Damm;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-01-01;Cerveza;Mahou;4.0;La Coquette;Madrid;0.33;0.0165
+2025-01-01;Bloody Mary;;12.0;La Coquette;Madrid;0.0;0.0
+2025-01-01;Roncola;;12.0;La Coquette;Madrid;0.4;0.048
+2025-01-02;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-01-10;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-01-13;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-01-13;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-01-13;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-01-13;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-01-13;Cerveza;Estrella Galicia;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-01-14;Cerveza;Alhambra Verde;3.5;La Caracola;Madrid;0.33;0.0165
+2025-01-17;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-01-18;Cerveza;Alhambra Especial;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-18;Cerveza;Estrella Galicia;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-18;Cerveza;Estrella Galicia;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-18;Cerveza;Mahou;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-18;Mojito;;1.0;Casa Laura;Moralzarzal;0.4;0.048
+2025-01-18;Mojito;;1.0;Casa Laura;Moralzarzal;0.4;0.048
+2025-01-18;Mojito;;1.0;Casa Laura;Moralzarzal;0.4;0.048
+2025-01-19;Cerveza;Alhambra Verde;0.6;Casa Laura;Moralzarzal;0.33;0.0165
+2025-01-22;Cerveza;Alhambra Verde;0.0;Madrid;Madrid;0.33;0.0165
+2025-01-23;Vermu;;3.0;Madrid;Madrid;0.2;0.03
+2025-01-23;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
+2025-01-23;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
+2025-01-23;Roncola;;6.0;Madrid;Madrid;0.4;0.048
+2025-01-23;Roncola;;10.0;El Cuento;Madrid;0.4;0.048
+2025-01-24;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-01-24;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-01-29;Cerveza;Aguila Dorada;4.0;Ponzano;Madrid;0.33;0.0165
+2025-01-29;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-02-01;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-02-02;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-02-03;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-02-05;Cerveza;Mahou;3.0;Bergantiños;Madrid;0.33;0.0165
+2025-02-05;Cerveza;Mahou;3.0;Bergantiños;Madrid;0.33;0.0165
+2025-02-07;Cerveza;Estrella Galicia;0.0;Casa Navas;Malaga;0.33;0.0165
+2025-02-14;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-02-15;Cerveza;Mahou;4.0;Madrid;Madrid;0.33;0.0165
+2025-02-15;Cerveza;Mahou;4.0;Madrid;Madrid;0.33;0.0165
+2025-02-15;Cerveza;Mahou;4.0;Madrid;Madrid;0.33;0.0165
+2025-02-20;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-02-21;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-02-21;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-02-22;Cerveza;Mahou;0.0;Comepeces;Madrid;0.33;0.0165
+2025-02-22;Cerveza;Mahou;0.0;Comepeces;Madrid;0.33;0.0165
+2025-02-22;Cerveza;Mahou;0.0;Comepeces;Madrid;0.33;0.0165
+2025-02-26;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-02-26;Cerveza;Mahou;3.2;Bel Mondo;Madrid;0.33;0.0165
+2025-02-27;Vermu;;2.8;El Greco;Madrid;0.2;0.03
+2025-02-27;Cerveza;;2.0;El Greco;Madrid;0.33;0.0165
+2025-03-01;Cerveza;Mahou;3.5;Oguis;Madrid;0.33;0.0165
+2025-03-06;Cerveza;Aguila Dorada;3.0;Tgb;Madrid;0.33;0.0165
+2025-03-07;Vermu;;2.8;El Greco;Madrid;0.2;0.03
+2025-03-07;Vermu;;2.8;El Greco;Madrid;0.2;0.03
+2025-03-07;Cerveza;Mahou;2.0;El Greco;Madrid;0.33;0.0165
+2025-03-07;Roncola;;4.0;Madrid;Madrid;0.4;0.048
+2025-03-07;Roncola;;4.0;Madrid;Madrid;0.4;0.048
+2025-03-07;Roncola;;4.0;Madrid;Madrid;0.4;0.048
+2025-03-07;Roncola;;4.0;Madrid;Madrid;0.4;0.048
+2025-03-08;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-09;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-10;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-13;Cerveza;Aguila Dorada;3.0;Tgb;Madrid;0.33;0.0165
+2025-03-14;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-03-15;Cerveza;Mahou;0.0;Icai;Madrid;0.33;0.0165
+2025-03-15;Cerveza;Mahou;0.0;Icai;Madrid;0.33;0.0165
+2025-03-15;Cerveza;Mahou;0.0;Icai;Madrid;0.33;0.0165
+2025-03-15;Cerveza;Mahou;0.0;Icai;Madrid;0.33;0.0165
+2025-03-19;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-03-20;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-03-20;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-03-20;Roncola;;3.0;Casa Madrid;Madrid;0.4;0.048
+2025-03-20;Roncola;;3.0;Casa Madrid;Madrid;0.4;0.048
+2025-03-20;Roncola;;3.0;Casa Madrid;Madrid;0.4;0.048
+2025-03-20;Indeterminado;;0.0;Liberty;Madrid;0.0;0.0
+2025-03-21;Cerveza;Mahou;3.5;Los Chicos;Madrid;0.33;0.0165
+2025-03-21;Cerveza;Mahou;3.0;El Greco;Madrid;0.33;0.0165
+2025-03-22;Cerveza;Mahou;3.0;El Greco;Madrid;0.33;0.0165
+2025-03-22;Vermu;;2.8;El Greco;Madrid;0.2;0.03
+2025-03-22;Cerveza;Mahou;4.0;Sushita;Madrid;0.33;0.0165
+2025-03-22;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
+2025-03-23;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-03-24;Cerveza;Mahou;4.0;Cafe Santander;Madrid;0.33;0.0165
+2025-03-25;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-03-27;Cafe Con Baileys;;4.0;Bergantinos;Madrid;0.4;0.048
+2025-03-28;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-29;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-29;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-29;Vino Blanco;;0.0;Casa Malaga;Malaga;0.15;0.018
+2025-03-30;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-30;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-03-30;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-03-31;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
+2025-03-31;Cerveza;Mahou;3.2;Madrid;Madrid;0.33;0.0165
+2025-04-02;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-02;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-03;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-04-05;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-05;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-05;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-06;Vermu;;0.0;Jaen;Jaen;0.2;0.03
+2025-04-06;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-06;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-06;Roncola;;0.0;Jaen;Jaen;0.4;0.048
+2025-04-08;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-08;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-08;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-08;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-08;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-10;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-04-11;Cerveza;Mahou;1.0;Casa Vicky;Madrid;0.33;0.0165
+2025-04-11;Cerveza;Mahou;1.0;Casa Vicky;Madrid;0.33;0.0165
+2025-04-11;Cerveza;Mahou;1.0;Casa Vicky;Madrid;0.33;0.0165
+2025-04-11;Cerveza;Mahou;1.0;Casa Vicky;Madrid;0.33;0.0165
+2025-04-12;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-04-12;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-04-13;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-04-13;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-04-13;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-04-14;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-04-15;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-04-15;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-04-15;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-04-16;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-16;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-17;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-17;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-17;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-04-18;Cerveza;Mahou;0.0;Despacho Papi;Malaga;0.33;0.0165
+2025-04-19;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-04-20;Cerveza;Cruzcampo;3.2;Malaga;Malaga;0.33;0.0165
+2025-04-25;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-04-28;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-04-30;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-05-07;Cerveza;Mahou;0.0;Salino;Madrid;0.33;0.0165
+2025-05-07;Cerveza;Mahou;0.0;Salino;Madrid;0.33;0.0165
+2025-05-09;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-05-09;Cerveza;Mahou;3.2;Aura;Madrid;0.33;0.0165
+2025-05-16;Cerveza;Mahou;0.0;Casa Ana;Madrid;0.33;0.0165
+2025-05-16;Cerveza;Mahou;0.0;Casa Ana;Madrid;0.33;0.0165
+2025-05-16;Cerveza;Mahou;0.0;Casa Ana;Madrid;0.33;0.0165
+2025-05-16;Roncola;;0.0;Madrid;Madrid;0.4;0.048
+2025-05-16;Roncola;;0.0;Madrid;Madrid;0.4;0.048
+2025-05-16;Roncola;;0.0;Madrid;Madrid;0.4;0.048
+2025-05-19;Aperol;;2.0;Jerez;Jerez;0.4;0.048
+2025-05-19;Aperol;;2.0;Jerez;Jerez;0.4;0.048
+2025-05-19;Rebujito;;7.0;Jerez;Jerez;0.0;0.0
+2025-05-19;Cerveza;;0.0;Jerez;Jerez;0.33;0.0165
+2025-05-20;Rebujito;;7.0;Jerez;Jerez;0.0;0.0
+2025-05-20;Roncola;;0.0;Jerez;Jerez;0.4;0.048
+2025-05-21;Rebujito;;0.0;Jerez;Jerez;0.0;0.0
+2025-05-21;Roncola;;0.0;Jerez;Jerez;0.4;0.048
+2025-05-24;Cerveza;;3.0;Cordoba;Cordoba;0.33;0.0165
+2025-05-24;Rebujito;;7.0;Cordoba;Cordoba;0.0;0.0
+2025-05-24;Roncola;;8.0;Cordoba;Cordoba;0.4;0.048
+2025-05-24;Roncola;;8.0;Cordoba;Cordoba;0.4;0.048
+2025-05-25;Cerveza;;3.0;Cordoba;Cordoba;0.33;0.0165
+2025-05-25;Cerveza;;3.0;Cordoba;Cordoba;0.33;0.0165
+2025-05-26;Cerveza;Mahou;3.0;Aura;Madrid;0.33;0.0165
+2025-05-27;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-05-27;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-05-27;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-05-27;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-05-28;Cerveza;Mahou;3.0;Aura;Madrid;0.33;0.0165
+2025-05-28;Cerveza;Mahou;3.0;Aura;Madrid;0.33;0.0165
+2025-05-29;Vermu;;0.0;Casa Blanca;Madrid;0.2;0.03
+2025-05-29;Cerveza;Alhambra;0.0;Casa Blanca;Madrid;0.33;0.0165
+2025-05-29;Cerveza;Alhambra;0.0;Casa Blanca;Madrid;0.33;0.0165
+2025-05-29;Cerveza;Alhambra;0.0;Casa Blanca;Madrid;0.33;0.0165
+2025-05-30;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-05-30;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-05-30;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-05-30;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-05-31;Cerveza;Victoria;0.0;Oleo;Malaga;0.33;0.0165
+2025-05-31;Cerveza;Victoria;0.0;Oleo;Malaga;0.33;0.0165
+2025-06-04;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-06-04;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-06-05;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-06-05;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-06-07;Cerveza;Estrella Galicia;3.5;Vox;Malaga;0.33;0.0165
+2025-06-10;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-06-10;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-06-11;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-06-13;Cerveza;Mahou;2.0;Cole;Malaga;0.33;0.0165
+2025-06-13;Cerveza;Aguila Dorada;3.5;Seven;Malaga;0.33;0.0165
+2025-06-13;Cerveza;Estrella Galicia;3.5;Tranvia;Malaga;0.33;0.0165
+2025-06-14;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-06-19;Cerveza;Mahou;0.0;Tren;Madrid;0.33;0.0165
+2025-06-20;Cerveza;Mahou;0.0;Boda Laura;Madrid;0.33;0.0165
+2025-06-20;Cerveza;Mahou;0.0;Boda Laura;Madrid;0.33;0.0165
+2025-06-20;Cerveza;Mahou;0.0;Boda Laura;Madrid;0.33;0.0165
+2025-06-20;Cerveza;Mahou;0.0;Boda Laura;Madrid;0.33;0.0165
+2025-06-20;Vino;;0.0;Boda Laura;Madrid;0.15;0.018
+2025-06-20;Vino;;0.0;Boda Laura;Madrid;0.15;0.018
+2025-06-20;Cava;;0.0;Boda Laura;Madrid;0.15;0.018
+2025-06-20;Roncola;;0.0;Boda Laura;Madrid;0.4;0.048
+2025-06-20;Roncola;;0.0;Boda Laura;Madrid;0.4;0.048
+2025-06-21;Cerveza;Steinburg;0.0;Casa Ana;Madrid;0.33;0.0165
+2025-06-23;Cerveza;Cruzcampo;2.0;Kali;Malaga;0.33;0.0165
+2025-06-24;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-06-25;Cerveza;Cruzcampo;2.0;Kali;Malaga;0.33;0.0165
+2025-06-27;Limoncello Spritz;;0.0;Marrakech;Marrakech;0.4;0.048
+2025-06-27;Vino;;0.0;Marrakech;Marrakech;0.15;0.018
+2025-06-28;Cerveza;Casablanca;0.0;Marrakech;Marrakech;0.33;0.0165
+2025-06-28;Aperol;;0.0;Marrakech;Marrakech;0.4;0.048
+2025-06-28;Vino;;0.0;Marrakech;Marrakech;0.15;0.018
+2025-06-29;Cerveza;Aguila;3.5;Seven;Malaga;0.33;0.0165
+2025-06-29;Cerveza;Cruzcampo;3.0;Kali;Malaga;0.33;0.0165
+2025-07-03;Cerveza;Estrella Galicia;3.5;Kali;Malaga;0.33;0.0165
+2025-07-03;Cerveza;Estrella Galicia;3.5;Kali;Malaga;0.33;0.0165
+2025-07-03;Cerveza;Estrella Galicia;3.5;Kali;Malaga;0.33;0.0165
+2025-07-06;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-07;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-09;Cerveza;Estrella Galicia;3.5;Vox;Malaga;0.33;0.0165
+2025-07-09;Cerveza;1870;3.5;Vox;Malaga;0.33;0.0165
+2025-07-12;Cerveza;Victoria;0.0;Rompeolas;Malaga;0.33;0.0165
+2025-07-14;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-07-17;Cerveza;Aguila;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-19;Cerveza;Victoria;0.0;Rompeolas;Malaga;0.33;0.0165
+2025-07-20;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-07-20;Roncola;;3.5;Jumanji;Malaga;0.4;0.048
+2025-07-22;Cerveza;Victoria;3.0;Malaga;Malaga;0.33;0.0165
+2025-07-22;Cerveza;Victoria;3.0;Malaga;Malaga;0.33;0.0165
+2025-07-22;Cerveza;Victoria;3.0;Malaga;Malaga;0.33;0.0165
+2025-07-22;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-07-22;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-07-22;Aperol;;12.0;Valeria;Malaga;0.4;0.048
+2025-07-23;Cerveza;Victoria;0.0;Rompeolas;Malaga;0.33;0.0165
+2025-07-23;Cerveza;Victoria;0.0;Rompeolas;Malaga;0.33;0.0165
+2025-07-24;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-25;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-27;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-28;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-28;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-28;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-07-29;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-07-29;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-07-29;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-08-01;Gintonic;;2.0;Cadiz;Cadiz;0.4;0.048
+2025-08-01;Gintonic;;2.0;Cadiz;Cadiz;0.4;0.048
+2025-08-01;Roncola;;8.0;Cadiz;Cadiz;0.4;0.048
+2025-08-02;Cerveza;Estrella Galicia;3.0;Cadiz;Cadiz;0.33;0.0165
+2025-08-02;Cerveza;Mahou;2.0;Cadiz;Cadiz;0.33;0.0165
+2025-08-03;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-04;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-04;Cerveza;Alhambra;3.5;Galerna;Malaga;0.33;0.0165
+2025-08-05;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-06;Tinto;;0.0;Casa Malaga;Malaga;0.15;0.018
+2025-08-06;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-07;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-08;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-08-08;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-08-08;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-08-08;Cocktail;;12.0;Valeria;Malaga;0.4;0.048
+2025-08-08;Gintonic;;0.0;Casa Malaga;Malaga;0.4;0.048
+2025-08-09;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-09;Gintonic;;0.0;Casa Malaga;Malaga;0.4;0.048
+2025-08-09;Cerveza;Estrella Galicia;3.5;Kali;Malaga;0.33;0.0165
+2025-08-10;Cerveza;Estrella Galicia;0.0;Manilva;Manilva;0.33;0.0165
+2025-08-10;Cerveza;Alhambra;0.0;Manilva;Manilva;0.33;0.0165
+2025-08-10;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-10;Cerveza;Estrella Galicia;0.0;Casa Tapia;Malaga;0.33;0.0165
+2025-08-10;Cerveza;Estrella Galicia;0.0;Casa Tapia;Malaga;0.33;0.0165
+2025-08-10;Cerveza;Estrella Galicia;0.0;Casa Tapia;Malaga;0.33;0.0165
+2025-08-10;Gintonic;;0.0;Casa Malaga;Malaga;0.4;0.048
+2025-08-11;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-12;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-13;Cerveza;Aguila Dorada;2.0;Vialia;Malaga;0.33;0.0165
+2025-08-13;Cerveza;Aguila Dorada;2.0;Vialia;Malaga;0.33;0.0165
+2025-08-13;Cerveza;Estrella Galicia;0.0;Casa Salas;Malaga;0.33;0.0165
+2025-08-13;Cerveza;Estrella Galicia;0.0;Casa Salas;Malaga;0.33;0.0165
+2025-08-13;Cerveza;Estrella Galicia;0.0;Casa Salas;Malaga;0.33;0.0165
+2025-08-14;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-15;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-15;Vino;;0.0;Casa Malaga;Malaga;0.15;0.018
+2025-08-15;Vino;;0.0;Casa Irene;Malaga;0.15;0.018
+2025-08-15;Vino;;0.0;Casa Irene;Malaga;0.15;0.018
+2025-08-15;Roncola;;1.5;Casa Irene;Malaga;0.4;0.048
+2025-08-15;Roncola;;1.5;Casa Irene;Malaga;0.4;0.048
+2025-08-16;Roncola;;8.0;Feria Malaga;Malaga;0.4;0.048
+2025-08-17;Cerveza;Estrella Galicia;0.0;Casa Teresa;Malaga;0.33;0.0165
+2025-08-17;Roncola;;1.5;Casa Teresa;Malaga;0.4;0.048
+2025-08-17;Roncola;;1.5;Casa Teresa;Malaga;0.4;0.048
+2025-08-17;Roncola;;0.0;Feria Malaga;Malaga;0.4;0.048
+2025-08-19;Cerveza;Victoria;0.0;Toros Malaga;Malaga;0.33;0.0165
+2025-08-19;Cerveza;Victoria;0.0;Zurich;Madrid;0.33;0.0165
+2025-08-19;Cerveza;Alhambra;0.0;Zurich;Madrid;0.33;0.0165
+2025-08-19;Cerveza;Alhambra;0.0;Zurich;Madrid;0.33;0.0165
+2025-08-19;Cerveza;Alhambra;0.0;Zurich;Madrid;0.33;0.0165
+2025-08-20;Aperol;;0.0;Casa Malaga;Malaga;0.4;0.048
+2025-08-20;Vermu;;3.5;Fomo;Malaga;0.2;0.03
+2025-08-20;Cerveza;Victoria;3.5;Fomo;Malaga;0.33;0.0165
+2025-08-21;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-08-21;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-08-22;Cerveza;Tropical;0.0;Casa Canarias;Canarias;0.33;0.0165
+2025-08-22;Cerveza;1906;0.0;Canarias;Canarias;0.33;0.0165
+2025-08-23;Cerveza;Tropical;0.0;Casa Canarias;Canarias;0.33;0.0165
+2025-08-24;Cerveza;Tropical;0.0;Roque Nublo;Canarias;0.33;0.0165
+2025-08-25;Cerveza;Tropical;0.0;Casa Canarias;Canarias;0.33;0.0165
+2025-08-26;Cerveza;Tropical;0.0;Casa Canarias;Canarias;0.33;0.0165
+2025-08-26;Cerveza;Tropical;0.0;Casa Canarias;Canarias;0.33;0.0165
+2025-08-27;Cerveza;Tropical;0.0;Casa Canarias;Canarias;0.33;0.0165
+2025-08-27;Cerveza;Tropical;0.0;Canarias;Canarias;0.33;0.0165
+2025-08-28;Cerveza;Estrella Galicia;0.0;Canarias;Canarias;0.33;0.0165
+2025-08-29;Aperol;;0.0;Casa Canarias;Canarias;0.4;0.048
+2025-08-30;Roncola;;3.5;Jumanji;Malaga;0.4;0.048
+2025-08-30;Roncola;;8.0;Anden;Madrid;0.4;0.048
+2025-08-30;Cerveza;Alhambra;3.0;Jumanji;Malaga;0.33;0.0165
+2025-08-31;Cerveza;Victoria;0.0;Malaga;Malaga;0.33;0.0165
+2025-09-02;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-09-02;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-09-02;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-09-02;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-09-05;Aperol;;0.0;Casa Blanca;Madrid;0.4;0.048
+2025-09-05;Cerveza;Alhambra;0.0;Casa Blanca;Madrid;0.33;0.0165
+2025-09-05;Cerveza;Alhambra;0.0;Casa Blanca;Madrid;0.33;0.0165
+2025-09-05;Cerveza;Alhambra;0.0;Casa Blanca;Madrid;0.33;0.0165
+2025-09-06;Vermu;;0.0;Madrid;Madrid;0.2;0.03
+2025-09-06;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-09-06;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-09-09;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-09-12;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-09-12;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-09-12;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-09-12;Gintonic;;0.0;Casa Beltran;Madrid;0.4;0.048
+2025-09-12;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-09-12;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-09-12;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-09-12;Roncola;;1.5;Casa Madrid;Madrid;0.4;0.048
+2025-09-12;Roncola;;1.5;Casa Madrid;Madrid;0.4;0.048
+2025-09-16;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-09-19;Cerveza;;0.0;Medjugorje;Medjugorje;0.33;0.0165
+2025-09-20;Cerveza;;0.0;Medjugorje;Medjugorje;0.33;0.0165
+2025-09-21;Cerveza;;0.0;Medjugorje;Medjugorje;0.33;0.0165
+2025-09-21;Cerveza;;0.0;Medjugorje;Medjugorje;0.33;0.0165
+2025-09-24;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-09-25;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-09-26;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-09-26;Cerveza;Steinburg;0.0;Casa Beltran;Madrid;0.33;0.0165
+2025-10-02;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-10-03;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-10-04;Cerveza;1870;5.0;Concierto Vise;Madrid;0.33;0.0165
+2025-10-04;Cerveza;1870;5.0;Concierto Vise;Madrid;0.33;0.0165
+2025-10-04;Roncola;;8.0;Concierto Vise;Madrid;0.4;0.048
+2025-10-04;Roncola;;8.0;Concierto Vise;Madrid;0.4;0.048
+2025-10-04;Roncola;;0.0;Concierto Vise;Madrid;0.4;0.048
+2025-10-04;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-10-04;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-10-04;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-10-09;Cerveza;Mahou;0.0;Madrid;Madrid;0.33;0.0165
+2025-10-12;Cerveza;Victoria;0.0;Barra Bientirada;Madrid;0.33;0.0165
+2025-10-12;Cerveza;Victoria;0.0;Barra Bientirada;Madrid;0.33;0.0165
+2025-10-13;Cerveza;Budweiser;0.0;Alfredos;Madrid;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-17;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-17;Mojito;;0.5;Casa Laurazarzal;Moralzarzal;0.4;0.048
+2025-10-17;Mojito;;0.5;Casa Laurazarzal;Moralzarzal;0.4;0.048
+2025-10-17;Mojito;;0.5;Casa Laurazarzal;Moralzarzal;0.4;0.048
+2025-10-18;Cerveza;Estrella Galicia;0.5;Casa Laurazarzal;Moralzarzal;0.33;0.0165
+2025-10-19;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-10-19;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-10-19;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-10-21;Cerveza;Mahou;0.0;Monteria;Madrid;0.33;0.0165
+2025-10-21;Cerveza;Mahou;0.0;Monteria;Madrid;0.33;0.0165
+2025-10-24;Cerveza;Mahou;3.5;Aura;Madrid;0.33;0.0165
+2025-10-24;Cerveza;Alhambra;0.0;Granada;Granada;0.33;0.0165
+2025-10-24;Cerveza;Alhambra;0.0;Granada;Granada;0.33;0.0165
+2025-10-25;Cerveza;Alhambra;0.0;Granada;Granada;0.33;0.0165
+2025-10-25;Cerveza;Alhambra;0.0;Granada;Granada;0.33;0.0165
+2025-10-25;Vermu;;0.0;Granada;Granada;0.2;0.03
+2025-10-25;Vermu;;0.0;Granada;Granada;0.2;0.03
+2025-10-25;Vermu;;0.0;Granada;Granada;0.2;0.03
+2025-10-26;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-10-27;Cerveza;Mahou;0.0;Hermanos Vinagre;Madrid;0.33;0.0165
+2025-10-27;Vermu;;0.0;Hermanos Vinagre;Madrid;0.2;0.03
+2025-10-30;Cerveza;1906;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-10-31;Cerveza;Mahou;0.0;Casa Rayo;Madrid;0.33;0.0165
+2025-10-31;Gintonic;;0.0;Casa Rayo;Madrid;0.4;0.048
+2025-11-01;Cerveza;1906;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-11-01;Cerveza;1906;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-11-01;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-11-01;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-11-01;Cerveza;Estrella Galicia;0.0;Casa Paco;Madrid;0.33;0.0165
+2025-11-05;Cerveza;Mahou;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-11-07;Cerveza;Mahou;3.2;Doctor;Madrid;0.33;0.0165
+2025-11-07;Cerveza;Aguila Dorada;3.0;Tgb;Madrid;0.33;0.0165
+2025-11-07;Cerveza;Aguila Dorada;3.0;Bolera;Madrid;0.33;0.0165
+2025-11-07;Cerveza;Mahou;2.0;Mcdonalds;Madrid;0.33;0.0165
+2025-11-07;Roncola;;12.0;El Cuento;Madrid;0.4;0.048
+2025-11-08;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-11-09;Cerveza;Estrella Galicia;0.0;Casa Malaga;Malaga;0.2;0.01
+2025-11-09;Vermu;;0.0;Casa Malaga;Malaga;0.2;0.03
+2025-11-12;Cerveza;Mahou;2.0;Lateral;Madrid;0.33;0.0165
+2025-11-12;Cerveza;Mahou;2.0;Lateral;Madrid;0.33;0.0165
+2025-11-13;Cerveza;Mahou;3.5;Varro;Madrid;0.33;0.0165
+2025-11-13;Cerveza;Mahou;3.5;Varro;Madrid;0.33;0.0165
+2025-11-16;Cerveza;Mahou;3.5;Lateral;Madrid;0.33;0.0165
+2025-11-16;Cerveza;1906;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-11-17;Cerveza;Budweiser;3.5;Alfredos;Madrid;0.33;0.0165
+2025-11-18;Cerveza;Mahou;4.0;Sierra;Madrid;0.33;0.0165
+2025-11-18;Cerveza;Mahou;4.0;Sierra;Madrid;0.33;0.0165
+2025-11-21;Cerveza;1906;0.0;Casa Vise;Madrid;0.33;0.0165
+2025-10-22;Cerveza;Tsingtao;3.5;Little Dragon;Madrid;0.33;0.0165
+2025-11-24;Cerveza;Mahou;0.0;Monteria;Madrid;0.33;0.0165
+2025-11-24;Cerveza;Mahou;0.0;Monteria;Madrid;0.33;0.0165
+2025-11-25;Cerveza;Mahou;0.0;Kulto;Madrid;0.33;0.0165
+2025-11-25;Cerveza;Mahou;0.0;Kulto;Madrid;0.33;0.0165
+2025-11-28;Cerveza;Mahou;0.0;Gallego;Madrid;0.33;0.0165
+2025-11-28;Cerveza;Mahou;3.0;La Regional;Madrid;0.33;0.0165
+2025-11-28;Cerveza;Mahou;3.0;La Regional;Madrid;0.33;0.0165
+2025-11-28;Cerveza;Mahou;3.0;La Regional;Madrid;0.33;0.0165
+2025-12-05;Cerveza;Alhambra;3.0;Uvepan;Madrid;0.33;0.0165
+2025-12-07;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-12-09;Cerveza;Mahou;3.5;Mercadillo Navidad;Madrid;0.33;0.0165
+2025-12-11;Cerveza;Tsingtao;3.5;Little Dragon;Madrid;0.33;0.0165
+2025-12-14;Cerveza;1906;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-12-15;Cerveza;1906;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-12-19;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-12-19;Cerveza;Estrella Galicia;0.0;Casa Madrid;Madrid;0.3;0.015
+2025-12-20;Cerveza;Mahou;3.5;Hermanos Vinagre;Madrid;0.33;0.0165
+2025-12-20;Cerveza;Mahou;3.5;Madrid;Madrid;0.33;0.0165
+2025-12-20;Cerveza;Tsingtao;3.5;Little Dragon;Madrid;0.33;0.0165
+2025-12-22;Cerveza;Estrella Galicia;0.0;Casa Nico;Madrid;0.33;0.0165
+2025-12-22;Cerveza;Estrella Galicia;0.0;Casa Nico;Madrid;0.33;0.0165
+2025-12-22;Roncola;;0.0;Casa Nico;Madrid;0.4;0.048
+2025-12-22;Roncola;;8.0;Florida Park;Madrid;0.4;0.048
+2025-12-22;Roncola;;8.0;Florida Park;Madrid;0.4;0.048
+2025-12-24;Cerveza;Cruzcampo;0.0;Jaen;Jaen;0.33;0.0165
+2025-12-24;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-12-24;Cerveza;Voll Damm;0.0;Jaen;Jaen;0.33;0.0165
+2025-12-24;Roncola;;0.0;Jaen;Jaen;0.4;0.048
+2025-12-25;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-12-25;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-12-25;Cerveza;Alhambra;0.0;Jaen;Jaen;0.33;0.0165
+2025-12-30;Cerveza;Cruzcampo;1.0;Venta;Malaga;0.33;0.0165
+2025-12-30;Cerveza;Cruzcampo;1.0;Venta;Malaga;0.33;0.0165
+2025-12-31;Cerveza;Mahou;0.0;El Escorial;El Escorial;0.33;0.0165
+2025-12-31;Vermu;;0.0;El Escorial;El Escorial;0.2;0.03
+2025-12-31;Cerveza;Alhambra;0.0;Casa Primos;Madrid;0.33;0.0165
+2025-12-31;Gintonic;;12.0;Madrid;Madrid;0.4;0.048

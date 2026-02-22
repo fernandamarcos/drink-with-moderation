@@ -1,0 +1,21 @@
+Gasto total: 644.5
+Precio medio bebida: 1.44
+
+Precio medio por tipo:
+BEBIDA
+Aperol                2.285714
+Bloody Mary          12.000000
+Cafe Con Baileys      4.000000
+Cava                  0.000000
+Cerveza               1.122254
+Cocktail             12.000000
+Gintonic              2.000000
+Indeterminado         0.000000
+Limoncello Spritz     0.000000
+Mojito                0.750000
+Rebujito              5.250000
+Roncola               3.825000
+Tinto                 0.000000
+Vermu                 0.804545
+Vino                  0.000000
+Vino Blanco           0.000000
