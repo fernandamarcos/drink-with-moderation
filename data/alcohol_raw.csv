@@ -1,0 +1,449 @@
+FECHA;BEBIDA;MARCA;PRECIO;LUGAR
+01/01/2025;Cerveza;Voll Damm;0 ?;Casa Madrid
+01/01/2025;Cerveza;Mahou;4 ?;La Coquette
+01/01/2025;Bloody Mary;;12 ?;La Coquette
+01/01/2025;Roncola;;12 ?;La Coquette
+02/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Malaga
+10/01/2025;Cerveza;Mahou;3,20 ?;Aura
+13/01/2025;Cerveza;Steinburg;0 ?;Casa Beltran 
+13/01/2025;Cerveza;Steinburg;0 ?;Casa Beltran 
+13/01/2025;Cerveza;Steinburg;0 ?;Casa Beltran 
+13/01/2025;Cerveza;Steinburg;0 ?;Casa Beltran 
+13/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Beltran 
+14/01/2025;Cerveza;Alhambra Verde;3,50 ?;La Caracola
+17/01/2025;Cerveza;Mahou;0 ?;Casa Madrid
+18/01/2025;Cerveza;Alhambra Especial;0,60 ?;Casa Laura
+18/01/2025;Cerveza;Estrella Galicia;0,60 ?;Casa Laura
+18/01/2025;Cerveza;Estrella Galicia;0,60 ?;Casa Laura
+18/01/2025;Cerveza;Mahou;0,60 ?;Casa Laura
+18/01/2025;Mojito;;1 ?;Casa Laura
+18/01/2025;Mojito;;1 ?;Casa Laura
+18/01/2025;Mojito;;1 ?;Casa Laura
+19/01/2025;Cerveza;Alhambra Verde;0,60 ?;Casa Laura
+22/01/2025;Cerveza;Alhambra Verde;0,00 ?;Madrid
+23/01/2025;Vermu;;3 ?;Madrid
+23/01/2025;Cerveza;Mahou;3,20 ?;Madrid
+23/01/2025;Cerveza;Mahou;3,20 ?;Madrid
+23/01/2025;Roncola;;6,00 ?;Madrid
+23/01/2025;Roncola;;10 ?;El cuento
+24/01/2025;Cerveza;Mahou;3,20 ?;Aura
+24/01/2025;Cerveza;Mahou;3,20 ?;Aura
+29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+29/01/2025;Cerveza;Aguila Dorada;4 ?;Ponzano
+29/01/2025;Cerveza;Estrella Galicia;0 ?;Casa Malaga
+01/02/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+02/02/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+03/02/2025;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+05/02/2025;Cerveza;Mahou;3 ?;Bergantiños
+05/02/2025;Cerveza;Mahou;3 ?;Bergantiños
+07/02/2025;Cerveza;Estrella Galicia;0 ?;Casa Navas
+14-feb;Cerveza;Estrella Galicia;0 ?;Casa Madrid
+15-feb;Cerveza;Mahou;4 ?;Madrid
+15-feb;Cerveza;Mahou;4 ?;Madrid
+15-feb;Cerveza;Mahou;4 ?;Madrid
+20-feb;Cerveza;Mahou;3,50 ?;Madrid
+21-feb;Cerveza;Mahou;3,20 ?;Aura
+21-feb;Cerveza;Mahou;3,20 ?;Aura
+22-feb;Cerveza;Mahou;0,00 ?;Comepeces
+22-feb;Cerveza;Mahou;0,00 ?;Comepeces
+22-feb;Cerveza;Mahou;0,00 ?;Comepeces
+26-feb;Cerveza;Mahou;3,20 ?;Aura
+26-feb;Cerveza;Mahou;3,20 ?;Bel Mondo
+27/02/2025;Vermu;;2,80 ?;El Greco
+27/02/2025;Cerveza;;2,00 ?;El Greco
+01/03/2025;Cerveza;Mahou;3,50 ?;Oguis
+06/03/2025;Cerveza;Aguila Dorada;3 ?;TGB
+07-mar;vermu;;2,80 ?;el greco 
+07-mar;vermu;;2,80 ?;el greco 
+07-mar;Cerveza;mahou;2,00 ?;el greco 
+07-mar;Roncola;;4,00 ?;madrid
+07-mar;Roncola;;4,00 ?;madrid
+07-mar;Roncola;;4,00 ?;madrid
+07-mar;Roncola;;4,00 ?;madrid
+08-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+09-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+10-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+13/03/2026;Cerveza;Aguila Dorada;3 ?;TGB
+14-mar;Cerveza;Mahou;3,20 ?;Aura
+15-mar;Cerveza;Mahou;0,00 ?;ICAI
+15-mar;Cerveza;Mahou;0,00 ?;ICAI
+15-mar;Cerveza;Mahou;0,00 ?;ICAI
+15-mar;Cerveza;Mahou;0,00 ?;ICAI
+19-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+20-mar;Cerveza;Mahou;3,20 ?;Aura
+20-mar;Cerveza;Mahou;3,20 ?;Aura
+20-mar;Roncola;;3,00 ?;Casa Madrid
+20-mar;Roncola;;3,00 ?;Casa Madrid
+20-mar;Roncola;;3,00 ?;Casa Madrid
+20-mar;Indeterminado;;0,00 ?;Liberty
+21-mar;Cerveza;Mahou;3,50 ?;Los chicos
+21-mar;Cerveza;Mahou;3,00 ?;El Greco
+22-mar;Cerveza;Mahou;3,00 ?;El Greco
+22-mar;Vermu;;2,80 ?;El Greco
+22-mar;Cerveza;Mahou;4,00 ?;Sushita
+22-mar;Cerveza;Mahou;3,20 ?;Madrid
+23-mar;Cerveza;Mahou;0,00 ?;Casa Madrid
+24-mar;Cerveza;Mahou;4,00 ?;Cafe Santander
+25-mar;Cerveza;Mahou;3,20 ?;Aura
+27-mar;Cafe con Baileys;;4,00 ?;Bergantinos
+28-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+29-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+29-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+29-mar;Vino Blanco;;0,00 ?;Casa Malaga
+30-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+30-mar;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+30-mar;Vermu;;0,00 ?;Casa Malaga
+31-mar;Cerveza;Mahou;3,20 ?;Madrid
+31-mar;Cerveza;Mahou;3,20 ?;Madrid
+02-abr;Cerveza;Mahou;3,20 ?;Aura
+02-abr;Cerveza;Mahou;3,20 ?;Aura
+03-abr;Cerveza;Mahou;0,00 ?;Madrid
+05-abr;Cerveza;Alhambra;0,00 ?;Jaen
+05-abr;Cerveza;Alhambra;0,00 ?;Jaen
+05-abr;Cerveza;Alhambra;0,00 ?;Jaen
+06-abr;Vermu;;0,00 ?;Jaen
+06-abr;Cerveza;Alhambra;0,00 ?;Jaen
+06-abr;Cerveza;Alhambra;0,00 ?;Jaen
+06-abr;Roncola;;0,00 ?;Jaen
+08-abr;Cerveza;Mahou;3,20 ?;Aura
+08-abr;Cerveza;Mahou;3,20 ?;Aura
+08-abr;Cerveza;Mahou;3,20 ?;Aura
+08-abr;Cerveza;Mahou;3,20 ?;Aura
+08-abr;Cerveza;Mahou;3,20 ?;Aura
+10-abr;Cerveza;Mahou;3,20 ?;Aura
+11-abr;Cerveza;Mahou;1,00 ?;Casa Vicky
+11-abr;Cerveza;Mahou;1,00 ?;Casa Vicky
+11-abr;Cerveza;Mahou;1,00 ?;Casa Vicky
+11-abr;Cerveza;Mahou;1,00 ?;Casa Vicky
+12-abr;Vermu;;0,00 ?;Casa Malaga
+12-abr;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+13-abr;Vermu;;0,00 ?;Casa Malaga
+13-abr;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+13-abr;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+14-abr;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+15-abr;Cerveza;Victoria;0,00 ?;Malaga
+15-abr;Cerveza;Victoria;0,00 ?;Malaga
+15-abr;Cerveza;Victoria;0,00 ?;Malaga
+16-abr;Cerveza;Alhambra;0,00 ?;Jaen
+16-abr;Cerveza;Alhambra;0,00 ?;Jaen
+17-abr;Cerveza;Alhambra;0,00 ?;Jaen
+17-abr;Cerveza;Alhambra;0,00 ?;Jaen
+17-abr;Cerveza;Alhambra;0,00 ?;Jaen
+18-abr;Cerveza;Mahou;0,00 ?;Despacho papi
+19-abr;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+20-abr;Cerveza;Cruzcampo;3,20 ?;Malaga
+25-abr;Cerveza;Mahou;0,00 ?;Casa Madrid
+28-abr;Cerveza;Mahou;0,00 ?;Casa Madrid
+30-abr;Cerveza;Mahou;3,20 ?;Aura
+07-may;Cerveza;Mahou;0,00 ?;Salino
+07-may;Cerveza;Mahou;0,00 ?;Salino
+09-may;Cerveza;Mahou;3,20 ?;Aura
+09-may;Cerveza;Mahou;3,20 ?;Aura
+16-may;Cerveza;Mahou;0,00 ?;Casa Ana
+16-may;Cerveza;Mahou;0,00 ?;Casa Ana
+16-may;Cerveza;Mahou;0,00 ?;Casa Ana
+16-may;Roncola;;0,00 ?;Madrid
+16-may;Roncola;;0,00 ?;Madrid
+16-may;Roncola;;0,00 ?;Madrid
+19-may;Aperol;;2,00 ?;Jerez
+19-may;Aperol;;2,00 ?;Jerez
+19-may;Rebujito;;7,00 ?;Jerez
+19-may;Cerveza;;0,00 ?;Jerez
+20-may;Rebujito;;7,00 ?;Jerez
+20-may;Roncola;;0 ?;Jerez
+21-may;Rebujito;;0,00 ?;Jerez
+21-may;Roncola;;0 ?;Jerez
+24-may;Cerveza;;3 ?;Cordoba
+24-may;Rebujito;;7 ?;Cordoba
+24-may;Roncola;;8 ?;Cordoba
+24-may;Roncola;;8 ?;Cordoba
+25-may;Cerveza;;3 ?;Cordoba
+25-may;Cerveza;;3 ?;Cordoba
+26-may;Cerveza;Mahou;3 ?;Aura
+27-may;Cerveza;Estrella Galicia;0 ?;Casa Paco
+27-may;Cerveza;Estrella Galicia;0 ?;Casa Paco
+27-may;Cerveza;Estrella Galicia;0 ?;Casa Paco
+27-may;Cerveza;Estrella Galicia;0 ?;Casa Paco
+28-may;Cerveza;Mahou;3 ?;Aura
+28-may;Cerveza;Mahou;3 ?;Aura
+29-may;Vermu;;0 ?;Casa Blanca
+29-may;Cerveza;Alhambra;0 ?;Casa Blanca
+29-may;Cerveza;Alhambra;0 ?;Casa Blanca
+29-may;Cerveza;Alhambra;0 ?;Casa Blanca
+30-may;Cerveza;Alhambra;0,00 ?;Jaen
+30-may;Cerveza;Alhambra;0,00 ?;Jaen
+30-may;Cerveza;Alhambra;0,00 ?;Jaen
+30-may;Cerveza;Alhambra;0,00 ?;Jaen
+31-may;Cerveza;Victoria;0,00 ?;Oleo
+31-may;Cerveza;Victoria;0,00 ?;Oleo
+04-jun;Cerveza;Victoria;3,50 ?;Fomo
+04-jun;Cerveza;Victoria;3,50 ?;Fomo
+05-jun;Vermu;;0,00 ?;Casa Malaga
+05-jun;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+07-jun;Cerveza;Estrella Galicia;3,50 ?;VOX
+10-jun;Cerveza;Victoria;0,00 ?;Malaga
+10-jun;Cerveza;Victoria;0,00 ?;Malaga
+11-jun;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+13-jun;Cerveza;Mahou;2,00 ?;Cole
+13-jun;Cerveza;Aguila Dorada;3,50 ?;Seven
+13-jun;Cerveza;Estrella Galicia;3,50 ?;Tranvia
+14-jun;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+19-jun;Cerveza;Mahou;0,00 ?;Tren
+20-jun;Cerveza;Mahou;0,00 ?;Boda Laura
+20-jun;Cerveza;Mahou;0,00 ?;Boda Laura
+20-jun;Cerveza;Mahou;0,00 ?;Boda Laura
+20-jun;Cerveza;Mahou;0,00 ?;Boda Laura
+20-jun;Vino;;0,00 ?;Boda Laura
+20-jun;Vino;;0,00 ?;Boda Laura
+20-jun;Cava;;0,00 ?;Boda Laura
+20-jun;Roncola;;0,00 ?;Boda Laura
+20-jun;Roncola;;0,00 ?;Boda Laura
+21-jun;Cerveza;Steinburg;0,00 ?;Casa Ana
+23-jun;Cerveza;Cruzcampo;2,00 ?;Kali
+24-jun;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+25-jun;Cerveza;Cruzcampo;2,00 ?;Kali
+27-jun;Limoncello Spritz;;0,00 ?;Marrakech
+27-jun;Vino;;0,00 ?;Marrakech
+28-jun;Cerveza;Casablanca;0,00 ?;Marrakech
+28-jun;Aperol;;0,00 ?;Marrakech
+28-jun;Vino;;0,00 ?;Marrakech
+29-jun;Cerveza;Aguila;3,50 ?;Seven
+29-jun;Cerveza;Cruzcampo;3,00 ?;Kali
+03-jul;Cerveza;Estrella;3,50 ?;Kali
+03-jul;Cerveza;Estrella;3,50 ?;Kali
+03-jul;Cerveza;Estrella;3,50 ?;Kali
+06-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+07-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+09-jul;Cerveza;Estrella Galicia;3,50 ?;VOX
+09-jul;Cerveza;1870;3,50 ?;VOX
+12-jul;Cerveza;Victoria;0,00 ?;Rompeolas
+14-jul;Vermu;;0,00 ?;Casa Malaga
+17-jul;Cerveza;Aguila;0,00 ?;Casa Malaga
+19-jul;Cerveza;Victoria;0,00 ?;Rompeolas
+20-jul;Cerveza;Victoria;3,50 ?;Fomo
+20-jul;Roncola;;3,50 ?;Jumanji
+22-jul;Cerveza;Victoria;3,00 ?;Malaga
+22-jul;Cerveza;Victoria;3,00 ?;Malaga
+22-jul;Cerveza;Victoria;3,00 ?;Malaga
+22-jul;Cerveza;Victoria;3,50 ?;Fomo
+22-jul;Cerveza;Victoria;3,50 ?;Fomo
+22-jul;Aperol;;12,00 ?;Valeria
+23-jul;Cerveza;Victoria;0,00 ?;Rompeolas
+23-jul;Cerveza;Victoria;0,00 ?;Rompeolas
+24-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+25-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+27-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+28-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+28-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+28-jul;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+29-jul;Cerveza;Victoria;0,00 ?;Malaga
+29-jul;Cerveza;Victoria;0,00 ?;Malaga
+29-jul;Cerveza;Victoria;0,00 ?;Malaga
+01-ago;Gintonic;;2,00 ?;Cadiz
+01-ago;Gintonic;;2,00 ?;Cadiz
+01-ago;Roncola;;8,00 ?;Cadiz
+02-ago;Cerveza;Estrella Galicia;3,00 ?;Cadiz
+02-ago;Cerveza;Mahou;2,00 ?;Cadiz
+03-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+04-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+04-ago;Cerveza;Alhambra;3,50 ?;Galerna
+05-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+06-ago;Tinto;;0,00 ?;Casa Malaga
+06-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+07-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+08-ago;Cerveza;Victoria;3,50 ?;Fomo
+08-ago;Cerveza;Victoria;3,50 ?;Fomo
+08-ago;Cerveza;Victoria;3,50 ?;Fomo
+08-ago;Cocktail;;12,00 ?;Valeria
+08-ago;Gintonic;;0,00 ?;Casa Malaga
+09-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+09-ago;Gintonic;;0,00 ?;Casa Malaga
+09-ago;Cerveza;Estrella Galicia;3,50 ?;Kali
+10-ago;Cerveza;Estrella Galicia;0,00 ?;Manilva
+10-ago;Cerveza;Alhambra;0,00 ?;Manilva
+10-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+10-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Tapia
+10-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Tapia
+10-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Tapia
+10-ago;Gintonic;;0,00 ?;Casa Malaga
+11-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+12-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+13-ago;Cerveza;Aguila Dorada;2,00 ?;Vialia
+13-ago;Cerveza;Aguila Dorada;2,00 ?;Vialia
+13-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Salas
+13-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Salas
+13-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Salas
+14-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+15-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+15-ago;Vino;;0,00 ?;Casa Malaga
+15-ago;Vino;;0,00 ?;Casa Irene
+15-ago;Vino;;0,00 ?;Casa Irene
+15-ago;Roncola;;1,50 ?;Casa Irene
+15-ago;Roncola;;1,50 ?;Casa Irene
+16-ago;Roncola;;8,00 ?;Feria Malaga
+17-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Teresa
+17-ago;Roncola;;1,50 ?;Casa Teresa
+17-ago;Roncola;;1,50 ?;Casa Teresa
+17-ago;Roncola;;0,00 ?;Feria Malaga
+19-ago;Cerveza;Victoria;0,00 ?;Toros Malaga
+19-ago;Cerveza;Victoria;0,00 ?;Zurich
+19-ago;Cerveza;Alhambra;0,00 ?;Zurich
+19-ago;Cerveza;Alhambra;0,00 ?;Zurich
+19-ago;Cerveza;Alhambra;0,00 ?;Zurich
+20-ago;Aperol;;0,00 ?;Casa Malaga
+20-ago;Vermu;;3,50 ?;Fomo
+20-ago;Cerveza;Victoria;3,50 ?;Fomo
+21-ago;Vermu;;0,00 ?;Casa Malaga
+21-ago;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+22-ago;Cerveza;Tropical ;0,00 ?;Casa Canarias
+22-ago;Cerveza;1906;0,00 ?;Canarias
+23-ago;Cerveza;Tropical ;0,00 ?;Casa Canarias
+24-ago;Cerveza;Tropical ;0,00 ?;Roque Nublo
+25-ago;Cerveza;Tropical ;0,00 ?;Casa Canarias
+26-ago;Cerveza;Tropical ;0,00 ?;Casa Canarias
+26-ago;Cerveza;Tropical ;0,00 ?;Casa Canarias
+27-ago;Cerveza;Tropical ;0,00 ?;Casa Canarias
+27-ago;Cerveza;Tropical ;0,00 ?;Canarias
+28-ago;Cerveza;Estrella Galicia;0,00 ?;Canarias
+29-ago;Aperol;;0,00 ?;Casa Canarias
+30-ago;Roncola;;3,50 ?;Jumanji
+30-ago;Roncola;;8,00 ?;Anden
+30-ago;Cerveza;Alhambra;3,00 ?;Jumanji
+31-ago;Cerveza;Victoria;0,00 ?;Malaga
+02-sep;Cerveza;Mahou;3,50 ?;Madrid
+02-sep;Cerveza;Mahou;3,50 ?;Madrid
+02-sep;Cerveza;Mahou;3,50 ?;Madrid
+02-sep;Cerveza;Mahou;3,50 ?;Madrid
+05-sep;Aperol;;0,00 ?;Casa Blanca
+05-sep;Cerveza;Alhambra;0,00 ?;Casa Blanca
+05-sep;Cerveza;Alhambra;0,00 ?;Casa Blanca
+05-sep;Cerveza;Alhambra;0,00 ?;Casa Blanca
+06-sep;Vermu;;0,00 ?;Madrid
+06-sep;Cerveza;Mahou;0,00 ?;Madrid
+06-sep;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+09-sep;Cerveza;Mahou;0,00 ?;Madrid
+12-sep;Cerveza;Steinburg;0,00 ?;Casa Beltran
+12-sep;Cerveza;Steinburg;0,00 ?;Casa Beltran
+12-sep;Cerveza;Steinburg;0,00 ?;Casa Beltran
+12-sep;Gintonic;;0,00 ?;Casa Beltran
+12-sep;Cerveza;Mahou;0,00 ?;Casa Madrid
+12-sep;Cerveza;Mahou;0,00 ?;Casa Madrid
+12-sep;Cerveza;Mahou;0,00 ?;Casa Madrid
+12-sep;Roncola;;1,50 ?;Casa Madrid
+12-sep;Roncola;;1,50 ?;Casa Madrid
+16-sep;Cerveza;Mahou;0,00 ?;Casa Madrid
+19-sep;Cerveza;;0,00 ?;Medjugorje
+20-sep;Cerveza;;0,00 ?;Medjugorje
+21-sep;Cerveza;;0,00 ?;Medjugorje
+21-sep;Cerveza;;0,00 ?;Medjugorje
+24-sep;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+25-sep;Cerveza;Mahou;3,50 ?;Madrid
+26-sep;Cerveza;Steinburg;0,00 ?;Casa Beltran
+26-sep;Cerveza;Steinburg;0,00 ?;Casa Beltran
+02-oct;Cerveza;Mahou;3,50 ?;Madrid
+03-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+04-oct;Cerveza;1870;5,00 ?;Concierto Vise
+04-oct;Cerveza;1870;5,00 ?;Concierto Vise
+04-oct;Roncola;;8,00 ?;Concierto Vise
+04-oct;Roncola;;8,00 ?;Concierto Vise
+04-oct;Roncola;;0,00 ?;Concierto Vise
+04-oct;Cerveza;Mahou;0,00 ?;Madrid
+04-oct;Cerveza;Mahou;0,00 ?;Madrid
+04-oct;Cerveza;Mahou;0,00 ?;Madrid
+09-oct;Cerveza;Mahou;0,00 ?;madrid
+12-oct;Cerveza;Victoria;0,00 ?;Barra Bientirada
+12-oct;Cerveza;Victoria;0,00 ?;Barra Bientirada
+13-oct;Cerveza;Budweiser;0,00 ?;Alfredos
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+17-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+17-oct;Mojito;;0,50 ?;Casa Laurazarzal
+17-oct;Mojito;;0,50 ?;Casa Laurazarzal
+17-oct;Mojito;;0,50 ?;Casa Laurazarzal
+18-oct;Cerveza;Estrella Galicia;0,50 ?;Casa Laurazarzal
+19-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
+19-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
+19-oct;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
+21-oct;Cerveza;Mahou;0,00 ?;Monteria
+21-oct;Cerveza;Mahou;0,00 ?;Monteria
+24-oct;Cerveza;Mahou;3,50 ?;Aura
+24-oct;Cerveza;Alhambra;0,00 ?;Granada
+24-oct;Cerveza;Alhambra;0,00 ?;Granada
+25-oct;Cerveza;Alhambra;0,00 ?;Granada
+25-oct;Cerveza;Alhambra;0,00 ?;Granada
+25-oct;Vermu;;0,00 ?;Granada
+25-oct;Vermu;;0,00 ?;Granada
+25-oct;Vermu;;0,00 ?;Granada
+26-oct;Vermu;;0,00 ?;Casa Malaga
+27-oct;Cerveza;Mahou;0,00 ?;Hermanos Vinagre
+27-oct;Vermu;;0,00 ?;Hermanos Vinagre
+30-oct;Cerveza;1906;0,00 ?;Casa Madrid
+31-oct;Cerveza;Mahou;0,00 ?;Casa Rayo
+31-oct;Gintonic;;0,00 ?;Casa Rayo
+01-nov;Cerveza;1906;0,00 ?;Casa Paco
+01-nov;Cerveza;1906;0,00 ?;Casa Paco
+01-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
+01-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
+01-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Paco
+05-nov;Cerveza;Mahou;0,00 ?;Casa madrid
+07-nov;Cerveza;Mahou;3,20 ?;Doctor
+07-nov;Cerveza;Aguila Dorada;3,00 ?;TGB
+07-nov;Cerveza;Aguila Dorada;3,00 ?;Bolera
+07-nov;Cerveza;Mahou;2,00 ?;Mcdonalds
+07-nov;Roncola;;12,00 ?;El cuento
+08-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+09-nov;Cerveza;Estrella Galicia;0,00 ?;Casa Malaga
+09-nov;Vermu;;0,00 ?;Casa Malaga
+12-nov;Cerveza;Mahou;2,00 ?;Lateral
+12-nov;Cerveza;Mahou;2,00 ?;Lateral
+13-nov;Cerveza;Mahou;3,50 ?;Varro
+13-nov;Cerveza;Mahou;3,50 ?;Varro
+16-nov;Cerveza;Mahou;3,50 ?;Lateral
+16-nov;Cerveza;1906;0,00 ?;Casa Madrid
+17-nov;Cerveza;Budweiser;3,50 ?;Alfredos
+18-nov;Cerveza;Mahou;4,00 ?;Sierra
+18-nov;Cerveza;Mahou;4,00 ?;Sierra
+21-nov;Cerveza;1906;0,00 ?;Casa Vise
+22-oct;Cerveza;Tsingtao;3,50 ?;Little Dragon
+24-nov;Cerveza;Mahou;0,00 ?;Monteria
+24-nov;Cerveza;Mahou;0,00 ?;Monteria
+25-nov;Cerveza;Mahou;0,00 ?;Kulto
+25-nov;Cerveza;Mahou;0,00 ?;Kulto
+28-nov;Cerveza;Mahou;0,00 ?;Gallego
+28-nov;Cerveza;Mahou;3,00 ?;La Regional
+28-nov;Cerveza;Mahou;3,00 ?;La Regional
+28-nov;Cerveza;Mahou;3,00 ?;La Regional
+05-dic;Cerveza;Alhambra ;3,00 ?;Uvepan
+07-dic;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+09-dic;Cerveza;Mahou;3,50 ?;Mercadillo Navidad
+11-dic;Cerveza;Tsingtao;3,50 ?;Little Dragon
+14-dic;Cerveza;1906;0,00 ?;Casa Madrid
+15-dic;Cerveza;1906;0,00 ?;Casa Madrid
+19-dic;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+19-dic;Cerveza;Estrella Galicia;0,00 ?;Casa Madrid
+20-dic;Cerveza;Mahou;3,50 ?;Hermanos Vinagre
+20-dic;Cerveza;Mahou;3,50 ?;Madrid
+20-dic;Cerveza;Tsingtao;3,50 ?;Little Dragon
+22-dic;Cerveza;Estrella Galicia;0,00 ?;Casa Nico
+22-dic;Cerveza;Estrella Galicia;0,00 ?;Casa Nico
+22-dic;Roncola;;0,00 ?;Casa Nico
+22-dic;Roncola;;8,00 ?;Florida Park
+22-dic;Roncola;;8,00 ?;Florida Park
+24-dic;Cerveza;Cruzcampo;0,00 ?;Jaen
+24-dic;Cerveza;Alhambra;0,00 ?;Jaen
+24-dic;Cerveza;Voll Damm;0,00 ?;Jaen
+24-dic;Roncola;;0,00 ?;Jaen
+25-dic;Cerveza;Alhambra;0,00 ?;Jaen
+25-dic;Cerveza;Alhambra;0,00 ?;Jaen
+25-dic;Cerveza;Alhambra;0,00 ?;Jaen
+30-dic;Cerveza;Cruzcampo;1,00 ?;Venta
+30-dic;Cerveza;Cruzcampo;1,00 ?;Venta
+31-dic;Cerveza;Mahou;0,00 ?;El Escorial
+31-dic;Vermu;;0,00 ?;El Escorial
+31-dic;Cerveza;Alhambra;0,00 ?;Casa Primos 
+31-dic;Gintonic;;12,00 ?;Madrid
